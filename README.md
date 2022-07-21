@@ -9,7 +9,7 @@ Tic Tac Toe game coded with React
 
 ```bash
 # Clone this project
-$ git clone https://github.com/miguelburgosh/Fetch-And-Render
+$ git clone https://github.com/miguelburgosh/TicTacToe
 ```
 ## :play_or_pause_button: How to Run
 
