@@ -16,8 +16,9 @@ $ git clone https://github.com/miguelburgosh/TicTacToe
 ## :motorway: Roadmap of future improvements
 
 - Applying different style.
+  By editing the CSS style file, particularly the properties of selectors button and game board such as background color, border width, color and radius.
 - Including a winner alert.
-- Adding images instead of symbols.
+  I will add inside checkForWinner function, an alert as part of a conditional that pops to inform the winner once is defined.
 
 ## :memo: License
 
