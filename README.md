@@ -16,8 +16,8 @@ $ git clone https://github.com/miguelburgosh/TicTacToe
 ## :motorway: Roadmap of future improvements
 
 - Applying different style.
-- Adding images instead of symbols.
 - Including a winner alert.
+- Adding images instead of symbols.
 
 ## :memo: License
 
